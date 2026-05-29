@@ -140,6 +140,7 @@ Jira Project: https://student-team-beta.atlassian.net/jira
 GitHub Repository: https://github.com/SanketJr11/Student-team-beta
 
 ---
+<<<<<<< HEAD
 
 ## Database Setup for Team Collaboration
 
@@ -168,6 +169,8 @@ Flyway will auto-apply missing migrations on startup, so schema changes committe
 
 ---
 
+=======
+>>>>>>> upstream/main
 ## Team
 	•	Jenish Richard – A00336114
 	•	Sanket Shetty – A00336144
